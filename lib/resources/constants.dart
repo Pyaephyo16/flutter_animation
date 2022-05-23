@@ -1,0 +1,15 @@
+const String TRENDING_FOR_YOU_TEXT = "Trending for you";
+const String RECOMMANDED_TEXT = "Recommanded";
+const String BADGE_NOTI_IN_TAB_BAR_ICON = "3";
+const String NEW_2020_TEXT = "NEW 2020";
+const String MODERN_OUTFIT_COLLECTION_TEXT = "MODERN OUTFIT\nCollection";
+const String FIRNA_SURAPT_TEXT = "Firna Surapt";
+const String HOWDY_TEXT = "Howdy,"; 
+const String CHRISTINA_YOTA_TEXT = "Christina Yota";
+const String SIZE_YOUR_SIZE_TEXT = "Size your size";
+const String SIZE_GUIDE_TEXT = "Size Guide";
+const String DESCRIPTION_TEXT = "Description";
+const String DESCRIPTION_CONTENT_TEXT = "It is a long ostablished fact that a reader will be distracted by the readable content of a page when looking at ts layout.The point of usingLorem Ipsum is that it has a more-or-less normal.";
+const String OUTFIT_IDEAS_TEXT = "OUTFIT IDEAS";
+const String MODERN_BLUE_JACKET_TEXT = "Modern Blue Jacket";
+const String PRICE_TEXT = "\$ 19,39";
